@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priteshgit444
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Yadav
 - 📫 How to reach me @mailcom
 
 <!---
