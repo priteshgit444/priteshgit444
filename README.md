@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @priteshgit444
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Yadav
+- 📫 How to reach me mail.com
 
 <!---
 priteshgit444/priteshgit444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
