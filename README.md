@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Yadav
-- 📫 How to reach me @mailcom
+
 
 <!---
 priteshgit444/priteshgit444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
